@@ -12,7 +12,7 @@ library(dplyr)
 library(gghalves)
 library(broom)
 
-setwd("/Users/jannawilloughby/Google Drive/My Drive/Willoughby lab/projects - archive/Caribou/MCH Calf Survival/")
+setwd("/Users/jannawilloughby/Google Drive/My Drive/Willoughby lab/projects - archive/Caribou/MCH Calf Survival/Calf Survival Data and Manuscript/caribou_calfsurvival/")
 #setwd("/Users/jrw0107/Google Drive/My Drive/Willoughby lab/projects - archive/Caribou/calfsurvival_figures/")
 #setwd("/Users/rsattler/OneDrive - Western EcoSystems Technology Inc/Documents/RStudio/Mulchatna/calf")
 par(mfrow = c(1, 1))
