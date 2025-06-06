@@ -1,0 +1,16 @@
+"Model","AIC","DeltaAIC","AICweight"
+"Surv(DaysAlive, Status) ~ Weight + Sex + CGcode",3495.82160697649,0,0.589
+"Surv(DaysAlive, Status) ~ Weight + Sex + YearFactor + CGcode",3497.36119295421,1.54,0.273
+"Surv(DaysAlive, Status) ~ Weight + CGcode",3499.45350053242,3.632,0.096
+"Surv(DaysAlive, Status) ~ Weight + YearFactor + CGcode",3501.13413645561,5.313,0.041
+"Surv(DaysAlive, Status) ~ Sex + CGcode",3508.507102908,12.685,0.001
+"Surv(DaysAlive, Status) ~ CGcode",3509.70361571218,13.882,0.001
+"Surv(DaysAlive, Status) ~ Sex + YearFactor + CGcode",3513.97299936553,18.151,0
+"Surv(DaysAlive, Status) ~ YearFactor + CGcode",3514.86014899615,19.039,0
+"Surv(DaysAlive, Status) ~ Weight + Sex + YearFactor",3540.06963161653,44.248,0
+"Surv(DaysAlive, Status) ~ Weight + Sex",3542.21866598647,46.397,0
+"Surv(DaysAlive, Status) ~ Weight + YearFactor",3543.1634086791,47.342,0
+"Surv(DaysAlive, Status) ~ Weight",3545.03934254301,49.218,0
+"Surv(DaysAlive, Status) ~ Sex",3545.19894519839,49.377,0
+"Surv(DaysAlive, Status) ~ Sex + YearFactor",3546.78056704896,50.959,0
+"Surv(DaysAlive, Status) ~ YearFactor",3547.99362122938,52.172,0
